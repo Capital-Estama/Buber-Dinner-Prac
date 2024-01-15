@@ -1,0 +1,16 @@
+/Users/wesest/Documents/Repositories/BuberDinner/BuberDinner.Application/bin/Debug/net8.0/BuberDinner.Application.deps.json
+/Users/wesest/Documents/Repositories/BuberDinner/BuberDinner.Application/bin/Debug/net8.0/BuberDinner.Application.dll
+/Users/wesest/Documents/Repositories/BuberDinner/BuberDinner.Application/bin/Debug/net8.0/BuberDinner.Application.pdb
+/Users/wesest/Documents/Repositories/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wesest/Documents/Repositories/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.AssemblyInfoInputs.cache
+/Users/wesest/Documents/Repositories/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.AssemblyInfo.cs
+/Users/wesest/Documents/Repositories/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.csproj.CoreCompileInputs.cache
+/Users/wesest/Documents/Repositories/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.sourcelink.json
+/Users/wesest/Documents/Repositories/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.dll
+/Users/wesest/Documents/Repositories/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/refint/BuberDinner.Application.dll
+/Users/wesest/Documents/Repositories/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.pdb
+/Users/wesest/Documents/Repositories/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/ref/BuberDinner.Application.dll
+/Users/wesest/Documents/Repositories/BuberDinner/BuberDinner.Application/bin/Debug/net8.0/BuberDinner.Domain.dll
+/Users/wesest/Documents/Repositories/BuberDinner/BuberDinner.Application/bin/Debug/net8.0/BuberDinner.Domain.pdb
+/Users/wesest/Documents/Repositories/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.csproj.AssemblyReference.cache
+/Users/wesest/Documents/Repositories/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.csproj.CopyComplete
